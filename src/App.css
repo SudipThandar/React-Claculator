@@ -12,7 +12,7 @@
   color:rgb(54, 54, 59);
   font-weight: 50px;
 }
-
+ 
 .calculator {
   display: flex;
   flex-direction: column;
